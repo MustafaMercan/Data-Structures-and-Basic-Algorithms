@@ -1,2 +1,2 @@
 # BasicSortingAlgorithms
-"Basic sorting algorithms in C and JavaScript"
+"Data Structures and Basic Algorithms"
